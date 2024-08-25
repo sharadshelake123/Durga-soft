@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Built-By: meani
+Build-Jdk: 21.0.3
+Implementation-Title: pms-rest
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.pms
+Implementation-URL: https://spring.io/projects/spring-boot/pms-rest
+Created-By: Maven Integration for Eclipse
+

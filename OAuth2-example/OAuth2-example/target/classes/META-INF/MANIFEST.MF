@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: meani
+Build-Jdk: 21.0.3
+Implementation-Title: OAuth2-example
+Implementation-Version: 1.1
+Implementation-Vendor-Id: com.example
+Implementation-URL: https://spring.io/projects/spring-boot/OAuth2-exampl
+ e
+Created-By: Maven Integration for Eclipse
+
